@@ -37,17 +37,3 @@ _Find answers to frequently asked questions on [getferdi.com/faq](https://getfer
 ## Contributing
 
 Please read the [contributing guidelines](CONTRIBUTING.md) to setup your development machine and proceed.
-
-## Sponsors
-
-<p>
-  <a href="https://www.digitalocean.com/?refcode=5292301af793">
-    <img src="https://getferdi.com/wp-content/uploads/sites/4/2021/09/digitalocean-logo-vector-1-1.svg" height="32px">
-  </a>
-</p>
-<p>
-  <a href="https://www.parallels.com/">
-    <img src="https://getferdi.com/wp-content/uploads/sites/4/2021/12/Parallels_logo.svg" height="30px">
-  </a>
-</p>
-
